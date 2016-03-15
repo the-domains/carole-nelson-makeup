@@ -1,0 +1,28 @@
+name: Carole Nelson Makeup
+favicon: null
+layout_spectrum: 0.5825782800093293
+typography_spectrum: 0.7125325698871166
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9754549344070256
+  lightness: 0.5344384391792119
+  saturation: 0.9299911744892597
+  rhythmicContrast: 0.6398499959614128
+purpose: []
